@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Julio\\Documents\\GitHub\\DIO-CSharp\\PrimeriosExemplos\\exemplo1\\exemplo1.csproj",
-      "projectName": "exemplo1",
-      "projectPath": "C:\\Users\\Julio\\Documents\\GitHub\\DIO-CSharp\\PrimeriosExemplos\\exemplo1\\exemplo1.csproj",
+      "projectUniqueName": "C:\\Users\\Julio\\Documents\\GitHub\\DIO-CSharp\\PrimeriosExemplos\\extruturaDePrograma\\extruturaDePrograma.csproj",
+      "projectName": "extruturaDePrograma",
+      "projectPath": "C:\\Users\\Julio\\Documents\\GitHub\\DIO-CSharp\\PrimeriosExemplos\\extruturaDePrograma\\extruturaDePrograma.csproj",
       "packagesPath": "C:\\Users\\Julio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Julio\\Documents\\GitHub\\DIO-CSharp\\PrimeriosExemplos\\exemplo1\\obj\\",
+      "outputPath": "C:\\Users\\Julio\\Documents\\GitHub\\DIO-CSharp\\PrimeriosExemplos\\extruturaDePrograma\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
