@@ -11,6 +11,9 @@ namespace sample1
             s.Empilhar(10);
             s.Empilhar(100);
             Console.WriteLine(s.Desempilhar());
+            Console.WriteLine(s.Desempilhar());
+            Console.WriteLine(s.Desempilhar());
+            Console.WriteLine(s.Desempilhar());
         }
     }
 }
