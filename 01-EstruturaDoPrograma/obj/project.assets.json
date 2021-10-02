@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Julio\\Documents\\repo\\DIO-CSharp\\PrimeriosExemplos\\sample1\\sample1.csproj",
-      "projectName": "sample1",
-      "projectPath": "C:\\Users\\Julio\\Documents\\repo\\DIO-CSharp\\PrimeriosExemplos\\sample1\\sample1.csproj",
+      "projectUniqueName": "C:\\Users\\Julio\\Documents\\repo\\DIO-CSharp\\01-EstruturaDoPrograma\\01-EstruturaDoPrograma.csproj",
+      "projectName": "01-EstruturaDoPrograma",
+      "projectPath": "C:\\Users\\Julio\\Documents\\repo\\DIO-CSharp\\01-EstruturaDoPrograma\\01-EstruturaDoPrograma.csproj",
       "packagesPath": "C:\\Users\\Julio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Julio\\Documents\\repo\\DIO-CSharp\\PrimeriosExemplos\\sample1\\obj\\",
+      "outputPath": "C:\\Users\\Julio\\Documents\\repo\\DIO-CSharp\\01-EstruturaDoPrograma\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Julio\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "sample1/1.0.0": {
+      "01-EstruturaDoPrograma/1.0.0": {
         "runtime": {
-          "sample1.dll": {}
+          "01-EstruturaDoPrograma.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "sample1/1.0.0": {
+    "01-EstruturaDoPrograma/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
