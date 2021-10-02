@@ -11,6 +11,8 @@ namespace _01_EstruturaDoPrograma
             s.Empilha(10);
             s.Empilha(100);
             Console.WriteLine(s.Desempilha());
+            Console.WriteLine(s.Desempilha());
+            Console.WriteLine(s.Desempilha());
         }
     }
 }
