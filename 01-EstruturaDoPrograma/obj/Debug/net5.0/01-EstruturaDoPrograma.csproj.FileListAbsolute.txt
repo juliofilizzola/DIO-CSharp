@@ -1,0 +1,16 @@
+C:\Users\Julio\Documents\repo\DIO-CSharp\01-EstruturaDoPrograma\bin\Debug\net5.0\01-EstruturaDoPrograma.exe
+C:\Users\Julio\Documents\repo\DIO-CSharp\01-EstruturaDoPrograma\bin\Debug\net5.0\01-EstruturaDoPrograma.deps.json
+C:\Users\Julio\Documents\repo\DIO-CSharp\01-EstruturaDoPrograma\bin\Debug\net5.0\01-EstruturaDoPrograma.runtimeconfig.json
+C:\Users\Julio\Documents\repo\DIO-CSharp\01-EstruturaDoPrograma\bin\Debug\net5.0\01-EstruturaDoPrograma.runtimeconfig.dev.json
+C:\Users\Julio\Documents\repo\DIO-CSharp\01-EstruturaDoPrograma\bin\Debug\net5.0\01-EstruturaDoPrograma.dll
+C:\Users\Julio\Documents\repo\DIO-CSharp\01-EstruturaDoPrograma\bin\Debug\net5.0\ref\01-EstruturaDoPrograma.dll
+C:\Users\Julio\Documents\repo\DIO-CSharp\01-EstruturaDoPrograma\bin\Debug\net5.0\01-EstruturaDoPrograma.pdb
+C:\Users\Julio\Documents\repo\DIO-CSharp\01-EstruturaDoPrograma\obj\Debug\net5.0\01-EstruturaDoPrograma.csproj.AssemblyReference.cache
+C:\Users\Julio\Documents\repo\DIO-CSharp\01-EstruturaDoPrograma\obj\Debug\net5.0\01-EstruturaDoPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julio\Documents\repo\DIO-CSharp\01-EstruturaDoPrograma\obj\Debug\net5.0\01-EstruturaDoPrograma.AssemblyInfoInputs.cache
+C:\Users\Julio\Documents\repo\DIO-CSharp\01-EstruturaDoPrograma\obj\Debug\net5.0\01-EstruturaDoPrograma.AssemblyInfo.cs
+C:\Users\Julio\Documents\repo\DIO-CSharp\01-EstruturaDoPrograma\obj\Debug\net5.0\01-EstruturaDoPrograma.csproj.CoreCompileInputs.cache
+C:\Users\Julio\Documents\repo\DIO-CSharp\01-EstruturaDoPrograma\obj\Debug\net5.0\01-EstruturaDoPrograma.dll
+C:\Users\Julio\Documents\repo\DIO-CSharp\01-EstruturaDoPrograma\obj\Debug\net5.0\ref\01-EstruturaDoPrograma.dll
+C:\Users\Julio\Documents\repo\DIO-CSharp\01-EstruturaDoPrograma\obj\Debug\net5.0\01-EstruturaDoPrograma.pdb
+C:\Users\Julio\Documents\repo\DIO-CSharp\01-EstruturaDoPrograma\obj\Debug\net5.0\01-EstruturaDoPrograma.genruntimeconfig.cache
