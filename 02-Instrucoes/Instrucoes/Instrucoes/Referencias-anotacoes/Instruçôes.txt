@@ -1,0 +1,25 @@
+﻿// Instruçoes
+
+Ações de um programa são expressada usando instruções
+
+{
+	um bloco permite que várias instruçõles sejam escritas em contextos
+}
+
+Tipos de instruções:
+
+Declaração de variáveis e constates locais
+if 
+switch
+while
+do
+for
+foreach
+
+instruções auxiliares
+Break 
+continue 
+return 
+throw
+try... catch.... finally
+using
