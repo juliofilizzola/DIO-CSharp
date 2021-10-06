@@ -16,9 +16,10 @@ namespace Instrucoes
             }
             Declaracoes();
             static void InstrucaoIf(string[] args) {
+                Console.WriteLine(5);
 
             }
-            InstrucoesIF();
+            InstrucaoIf();
             // static void InstrucaoSwitch(string[] args) { }
             // static void InstrucaoWhile(string[] args) { }
             // static void InstrucaoDo(string[] args) { }
