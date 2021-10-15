@@ -1,0 +1,19 @@
+﻿// tipos
+
+Numéricos : sbyte, short, int, long, byte, ushort, uint, ulong;
+            
+Caracteres Unicode: Char;
+
+Pontos Flutuantes: float, double, decimal;
+
+
+   É possivel que duas variavés façam referência ao mesmo objeto e, portanto, que operações em 
+   uma variável afetem o objeto referenciado pela outra variável.
+
+
+   Tipos de referência;
+
+
+Tipos Classe: class, object, string;
+
+Tipos de Array: int[], int[,];
